@@ -44,6 +44,7 @@ About Submit Just 4 PRs to earn SWAGS and Tshirts🔥
 ### Process are as follows :-
 
 - Login using github @ [Hacktoberfest](https://hacktoberfest.digitalocean.com/)
+- Follow the Hacktoberfest Maintainer here @ [LinkedIn](https://linkedin.com/in/RajkumarSony/), @ [Github](https://github.com/RajkumarSony)
 - Create four valid pull requests (PRs) between September 26 and October 31.
 
 ---

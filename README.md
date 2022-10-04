@@ -48,13 +48,6 @@ About Submit Just 4 PRs to earn SWAGS and Tshirts🔥
 
 - Follow the Hacktoberfest Maintainer here @ [LinkedIn](https://linkedin.com/in/RajkumarSony/), @ [Github](https://github.com/RajkumarSony), @ [Instagram](https://www.instagram.com/rajkumarsony_/)
 
-<center><tr>
-  <td align="center"><a href="https://github.com/RajkumarSony">
-    <kbd><img src="https://avatars3.githubusercontent.com/RajkumarSony?size=100" width="100px;" alt=""/></kbd><br />
-    <sub><b>Raj Kumar Sony</b></sub></a><br />
-  </td>
-</tr></center>
-
 ---
 
 ### How to Contribute to this repository
@@ -96,5 +89,13 @@ git push origin branch-name
 - Make Sure you commit your changes in a new branch.
 - Make Sure you Give proper name to your files describing the addition.
 - Also Make Sure you comment your code whereever necessary.
+
+
+<tr>
+  <td align="center"><a href="https://github.com/RajkumarSony">
+    <kbd><img src="https://avatars3.githubusercontent.com/RajkumarSony?size=100" width="100px;" alt=""/></kbd><br />
+    <sub><b>Raj Kumar Sony</b></sub></a><br />
+  </td>
+</tr>
 
 <!--       END OF README           END OF README         END OF README         END OF README          END OF README           END OF README           END OF README      -->

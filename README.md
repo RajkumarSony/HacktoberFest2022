@@ -57,14 +57,14 @@ About Submit Just 4 PRs to earn SWAGS and Tshirts🔥
 git clone https://github.com/RajkumarSony/HacktoberFest2022.git
 ```
 
-- Change the present working directory
+- Change the present working directory.
 
 ```markdown
 cd HacktoberFest2022
 ```
 
 - Add/Create your project to the specific folder as described in what you can contribute section.
-- Make a new branch
+- Make a new branch.
 
 ```markdown
 git checkout -b branch-name

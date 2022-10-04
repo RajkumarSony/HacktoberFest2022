@@ -10,7 +10,7 @@ About Submit Just 4 PRs to earn SWAGS and Tshirts🔥
 
 ### Welcome to hacktoberfest 2022 Public Repository. 👨🏻‍💻
 
-🗣 **<p>A month-long celebration from September 26 to October 31 sponsored by Digital Ocean and GitHub to get people involved in Open Source. Create your very first pull request to any public repository on GitHub and contribute to the open source developer community.**
+🗣 **A month-long celebration from September 26 to October 31 sponsored by Digital Ocean and GitHub to get people involved in Open Source. Create your very first pull request to any public repository on GitHub and contribute to the open source developer community.**
 
 📢 **Register [here](https://hacktoberfest.digitalocean.com/) for Hacktoberfest and make four pull requests (PRs) and Complete the challenge between from September 26 and October 31 to grab free SWAGS and earn a limited edition T-shirt 🔥.**
 

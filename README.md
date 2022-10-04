@@ -48,9 +48,10 @@ About Submit Just 4 PRs to earn SWAGS and Tshirts🔥
 
 - Follow the Hacktoberfest Maintainer here @ [LinkedIn](https://linkedin.com/in/RajkumarSony/), @ [Github](https://github.com/RajkumarSony)
 
-<tr><td align="center"><a href="https://github.com/RajkumarSony"><kbd><img src="https://avatars3.githubusercontent.com/RajkumarSony?size=100" width="100px;" alt=""/></kbd><br /><sub><b>Github</b></sub></a><br /></td></tr>
-<tr><td align="center"><a href="https://linkedin.com/in/RajkumarSony/"><kbd><img src="https://avatars3.githubusercontent.com/RajkumarSony?size=100" width="100px;" alt=""/></kbd><br /><sub><b>LinkedIn</b></sub></a><br /></td></tr>
-<tr><td align="center"><a href="https://instagram.com/rajkumarsony_/"><kbd><img src="https://avatars3.githubusercontent.com/RajkumarSony?size=100" width="100px;" alt=""/></kbd><br /><sub><b>Instagram</b></sub></a><br /></td></tr>
+<tr><td align="center"><a href="https://github.com/RajkumarSony"><kbd><img src="https://avatars3.githubusercontent.com/RajkumarSony?size=100" width="100px;" alt=""/></kbd><br /><sub><b>Github</b></sub></a><br /></td>
+<td align="center"><a href="https://linkedin.com/in/RajkumarSony/"><kbd><img src="https://avatars3.githubusercontent.com/RajkumarSony?size=100" width="100px;" alt=""/></kbd><br /><sub><b>LinkedIn</b></sub></a><br /></td>
+<td align="center"><a href="https://instagram.com/rajkumarsony_/"><kbd><img src="https://avatars3.githubusercontent.com/RajkumarSony?size=100" width="100px;" alt=""/></kbd><br /><sub><b>Instagram</b></sub></a><br /></td></tr>
+
 ---
 
 ### How to Contribute to this repository

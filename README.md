@@ -4,7 +4,29 @@ About Submit Just 4 PRs to earn SWAGS and Tshirts🔥
 
 # 🌱 Contributing to hacktoberfest 2022
 
-![banner](https://hacktoberfest.digitalocean.com/_nuxt/img/logo-hacktoberfest-full.f42e3b1.svg)
+# Hacktoberfest 2022 `OPEN FIRST` Pull Request - `FREE T-SHIRT`🎉
+![Hacktoberfest 2021](static/logo.png)
+
+
+## Contributors of `Hacktoberfest 2022`
+
+<div align="center">
+
+<a href="https://github.com/ossamamehmood/Hacktoberfest2022/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=ossamamehmood/Hacktoberfest2022" />
+</a>
+  
+  </div>
+
+---
+
+## This project is perfect for your first pull request
+
+🗣 **Hacktoberfest encourages participation in the open source community, which grows bigger every year. Complete the challenge and earn a limited edition T-shirt.**
+
+📢 **Register [here](https://hacktoberfest.digitalocean.com) for Hacktoberfest and make four pull requests (PRs) between October 1st-31st to grab free SWAGS 🔥.**
+
+---
 
 ### Welcome to hacktoberfest 2022 Public Repository. 👨🏻‍💻
 

@@ -4,7 +4,7 @@ About Submit Just 4 PRs to earn SWAGS and Tshirts🔥
 
 # 🌱 Contributing to hacktoberfest 2022
 
-![Hacktoberfest 2022](static/logo.png)
+![Hacktoberfest 2022](logo.png)
 
 ---
 

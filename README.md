@@ -35,8 +35,8 @@ About Submit Just 4 PRs to earn SWAGS and Tshirts🔥
 ### What can You contribute ⚠️
 
 - There are language Specific folders in the repository choose any you're comfortable with if not, make one.
-- Inside the language folder there will be multiple topic folders like Data Structures, Algorithms, Problems and projects.
-- Contribute any algorithm, data-structure implementation or your favourite problmes or projects.
+- Inside the Projects folder, Upload the unique projects with proper project title.
+- Contribute your small or mini projects, that can be in different languages.
 - Make sure your follow the below steps.
 
 ---

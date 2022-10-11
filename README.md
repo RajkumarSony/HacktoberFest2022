@@ -1,3 +1,14 @@
+# This Repo has been **EXCLUDED** due to simple programs.
+
+---
+
+# Kindly open [Hacktober-Fest2k22 Repo](https://github.com/RajkumarSony/Hacktober-Fest2k22) and start contributing... 🎉
+
+## Best of Luck!!
+
+---
+---
+
 # HacktoberFest2022
 About Submit Just 4 PRs to earn SWAGS and Tshirts🔥
 

@@ -1,12 +1,11 @@
-# This Repo has been **EXCLUDED** due to simple programs.
+# This Repo has been **EXCLUDED** due to wrong repo name.
 
 ---
 
-# Kindly open [Hacktober-Fest2k22 Repo](https://github.com/RajkumarSony/Hacktober-Fest2k22) and start contributing... 🎉
+# Kindly open [LeetCode-Solutions Repo](https://github.com/RajkumarSony/LeetCode-Solutions) and start contributing... 🎉
 
 ## Best of Luck!!
 
----
 ---
 
 # HacktoberFest2022
